@@ -1,6 +1,6 @@
 Clone of https://code.google.com/p/cliche/ 
 
-Is under the http://opensource.org/licenses/mit-license.php licenz 
+Is under the http://opensource.org/licenses/mit-license.php license 
 
 Orginal landing page follows:
 # Cliche Command-Line Shell
